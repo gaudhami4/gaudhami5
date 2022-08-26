@@ -40,3 +40,4 @@ rsa
 six
 uritemplate
 urllib3
+jupyter-dash
